@@ -1,0 +1,22 @@
+.greeting{
+   font-family: Roboto;
+   font-size:30px;
+   color:orange;
+}
+
+.div-element{
+    text-align:center;
+}
+
+.para{
+    color:black;
+    font-size:20px;
+}
+.profile-img{
+
+    background-size:cover;
+    height:250px;
+    width:350px;
+    margin:30px;
+    border-radius:40px;
+}
